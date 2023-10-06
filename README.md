@@ -5,7 +5,7 @@ These functions were implemented in Python (v3.X)
 
 If you use the recolhe_Sinais or the limita_som, either as are or adapted, please quote the following article:
 
-***B. Rodrigues, H. Cordeiro and G. Marques, "Spectral energy bands for laryngeal pathologies discrimination in speech signals : Healthy and unhealthy voices discrimination, and pathology discrimination," 2023 18th Iberian Conference on Information Systems and Technologies (CISTI), Aveiro, Portugal, 2023, pp. 1-6, doi: 10.23919/CISTI58278.2023.10212052.***
+***B. Rodrigues, H. Cordeiro and G. Marques, "Spectral energy bands for laryngeal pathologies discrimination in speech signals : Healthy and unhealthy voices discrimination, and pathology discrimination," 2023 18th Iberian Conference on Information Systems and Technologies (CISTI), Aveiro, Portugal, 2023, pp. 1-6, https://doi.org/10.23919/CISTI58278.2023.10212052.***
 
 ## Function: recolhe_Sinais
 
